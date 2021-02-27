@@ -69,6 +69,16 @@ We design our Services with care, based on our own experience and the experience
 
 We also test all of our features extensively before shipping them. As with any software, our Services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don't guarantee completely error-free Services.
 
+### Services Adaptations and API Terms
+
+We offer Application Program Interfaces \("API"s\) for some of our Services. Any use of the API, including through a third-party product that accesses the Services, is bound by the terms of this agreement plus the following specific terms:
+
+1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
+2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user's activity _other than time tracking_, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
+3. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account's access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account's access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
+
+If third-party providers have created integrations between our Services and theirs, we are not liable or accountable for any of these third-party integrations.
+
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
