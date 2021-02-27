@@ -12,7 +12,7 @@ Account owners can follow these instructions to cancel in-app:
 
 Our legal responsibility is to account owners, which means we cannot cancel an account at the request of anyone else. If for whatever reason you no longer know who the account owner is, [contact us](mailto:accounts@heavymelon.supportress.com). We will gladly reach out to any current account owners at the email addresses we have on file.
 
-### What happens when you cancel?
+## What happens when you cancel?
 
 You won’t be able to access your account once you cancel, so make sure you download everything you want to keep beforehand.
 
@@ -20,7 +20,7 @@ We’ll permanently delete your account data within 30 days from our servers and
 
 We won’t bill you again once you cancel. We don’t automatically prorate any unused time you may have left but if you haven’t used your account in months or just started a new billing cycle, [contact us](mailto:accounts@heavymelon.supportress.com) for a [fair refund](refund-policy.md). We’ll treat you right.
 
-### HeavyMelon-initiated cancellations
+## HeavyMelon-initiated cancellations
 
 We may cancel accounts if they have been inactive for an extended period:
 
@@ -33,6 +33,6 @@ We also retain the right to suspend or terminate accounts for any reason at any 
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/7e38d54778c0e6cfb5355e3eb4e0f097aee33572/cancellation/index.md) __— _August 14, 2020._
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/7e38d54778c0e6cfb5355e3eb4e0f097aee33572/cancellation/index.md) _\_— \_August 14, 2020._
 {% endhint %}
 

@@ -11,19 +11,19 @@ The privacy of your data — and it is your data, not ours! — is a big deal to
 
 This policy applies to all products built and maintained by HeavyMelon P.C. including Supportress.
 
-### What we collect and why
+## What we collect and why
 
 Our guiding principle is to collect only what we need. Here’s what that means in practice:
 
-#### Identity & access
+### Identity & access
 
 When you sign up for a HeavyMelon product, we typically ask for identifying information such as your name, email address, and maybe a company name. That’s just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We sometimes also give you the option to add a profile picture that displays in our products, but we do not normally look at or access that picture. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
-#### Billing information
+### Billing information
 
 When you pay for a HeavyMelon product, we ask for your credit card and billing address. That’s so we can charge you for service, calculate taxes due, and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and as-of billing address, for account history, invoicing, and billing support. We store your billing address to calculate any sales tax due in the United States or VAT in the EU, to detect fraudulent credit card transactions, and to print on your invoices.
 
-#### Geolocation data
+### Geolocation data
 
 We log all access to all accounts by full IP address so that we can always verify no unauthorized access has happened. We keep this login data for as long as your product account is active.
 
@@ -31,35 +31,35 @@ We also log full IP addresses used to sign up a product account. We keep this re
 
 Web analytics data — described further in the Website Interactions section — are also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
 
-#### Website interactions
+### Website interactions
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days.
 
 Historically — including within the last 12 months — we have used third-party web analytics software. We no longer do for our actively sold and developed products and their marketing sites \(Basecamp and HEY\). We are in the process of removing third party web analytics software from our other products and web properties.
 
-#### Anti-bot assessments
+### Anti-bot assessments
 
 We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in Supportress as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your accounts and fill specific forms in Supportress, the CAPTCHA service evaluates various information \(e.g IP address, how long the visitor has been on the app, mouse movements\) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
 
-#### Cookies and Do Not Track
+### Cookies and Do Not Track
 
 We do use persistent first-party cookies to store certain preferences, make it easier for you to use our applications, and support some in-house analytics. A cookie is a piece of text stored by your browser to help it remember your login information, site preferences, and more. You can adjust cookie retention settings in your own browser. To learn more about cookies, including how to view which cookies have been set and how to manage and delete them, please visit: [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
 At this time, our sites and applications do not respond to Do Not Track beacons sent by browser plugins.
 
-#### Voluntary correspondence
+### Voluntary correspondence
 
 When you write HeavyMelon with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
 We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
-#### Information we do not collect
+### Information we do not collect
 
 We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity, gender expression, or physical and mental abilities or disabilities. You may provide these data voluntarily, such as if you include a pronoun preference in your email signature when writing into our Support team.
 
 We also do not collect any biometric data. You are given the option to add a picture to your user profile, which could be a real picture of you or a picture of something else that represents you best. We do not extract any information from profile pictures: they are for your use alone.
 
-### When we access or share your information
+## When we access or share your information
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
@@ -80,7 +80,7 @@ HeavyMelon, PC is an EU company based in Greece. Some data infrastructure are lo
 
 Finally, if HeavyMelon, PC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
-### Your rights with respect to your information
+## Your rights with respect to your information
 
 At HeavyMelon, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation \(“GDPR”\). HeavyMelon recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
@@ -101,27 +101,27 @@ If you have questions about exercising these rights or need assistance, please c
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
-### How we secure your data
+## How we secure your data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
 
 For Supportress, most data are not encrypted while they live in our database \(since it needs to be ready to send to you when you need it\), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security-overview.md).
 
-### What happens when you delete data in your product accounts
+## What happens when you delete data in your product accounts
 
 In many of our applications, we give you the option to trash data. Anything you trash on your product accounts while they are active will be kept in an accessible trash can for up to 30 days \(it varies a little by product\). After that, the trashed data are no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you trash things in our applications, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome so if you change your mind you’ll need to do so before your data are deleted from our active servers.
 
 We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation-policy.md) for more details.
 
-### Changes & questions
+## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices.  Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://blog.heavymelon.com).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. Whenever we make a significant change to our policies, we will also announce them on our [company blog](https://blog.heavymelon.com).
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [legal@heavymelon.com](mailto:legal@heavymelon.com) and we’ll be happy to answer them!
 
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/b39cdca979fd3bc02a199da54076e6c72da07b1e/privacy/index.md) __— _December 9, 2020._
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/b39cdca979fd3bc02a199da54076e6c72da07b1e/privacy/index.md) _\_— \_December 9, 2020._
 {% endhint %}
 

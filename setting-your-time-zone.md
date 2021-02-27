@@ -10,5 +10,3 @@ Then set your time zone:
 
 ![Set your time zone](.gitbook/assets/settings_timezone.png)
 
-
-

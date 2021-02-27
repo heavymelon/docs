@@ -10,7 +10,7 @@ You want to move the discussion into Supportress in order to take advantage of i
 
 Each member in your Supportress organization has a unique personal forwarding address per queue. They can forward any email as an attachment to it. Supportress will start a discussion using the sender of the original email as the author of the discussion. It's as if your customer had started the discussion directly Supportress.
 
-### Finding your personalized address for a queue
+## Finding your personalized address for a queue
 
 You can find your personalized address for a queue in `Queue > Import discussions`:
 
@@ -26,13 +26,11 @@ You can generate a new email address by clicking on the `Generate new` button. T
 Please note: Regular forwarding will not work. You have to forward the email as an attachment. See below for popular email client instructions.
 {% endhint %}
 
-### How to forward an email as an attachment
+## How to forward an email as an attachment
 
 Forwarding an email as an attachment allows us to extract the necessary information in a robust and predictable way.
 
 Here's how to do it with various popular email clients:
 
 {% page-ref page="forwarding-as-attachment-in-gmail.md" %}
-
-
 

@@ -30,5 +30,3 @@ We don't do anything drastic. However we will let you know and ask you to upgrad
 
 We don't have a hard limit. However, if we see excessive usage of storage for one of your organizations on Supportress, we may contact you. We reserve the right to ask you to either change your usage patterns. If that's not convenience, we can give you a quote that will increase your monhtly subscription.
 
-
-

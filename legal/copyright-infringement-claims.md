@@ -4,7 +4,7 @@ description: How HeavyMelon handles copyright infringement claims.
 
 # Copyright infringement claims
 
-### Notification of Copyright Infringement Claims
+## Notification of Copyright Infringement Claims
 
 Making original work is hard! As described in our [Use Restrictions policy](use-restrictions.md), you can’t use HeavyMelon products\* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
 
@@ -17,7 +17,7 @@ Are you a copyright owner? Under the Digital Millennium Copyright Act \(17 U.S.C
 * A statement that you, in good faith, believe that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 * A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-### Digital Millennium Copyright Act \("DMCA"\) Counter-Notifications
+## Digital Millennium Copyright Act \("DMCA"\) Counter-Notifications
 
 On the flip-side, if you believe your material has been removed in error, you can file a written counter-notification. Please include the following information:
 
@@ -29,7 +29,7 @@ On the flip-side, if you believe your material has been removed in error, you ca
 * A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the Greece, in Thessaloniki, Greece \(where HeavyMelon is located\).
 * A statement that you will accept service of process from the person who filed the original DMCA notice or an agent of that person. \(In other words, you’ve designated that person to receive documents on your behalf.\)
 
-### Where to send notices
+## Where to send notices
 
 You can notify us of either copyright infringement claims or DMCA counter-notifications by email: [legal@heavymelon.com](mailto:legal@heavymelon.com)
 
@@ -38,6 +38,6 @@ You can notify us of either copyright infringement claims or DMCA counter-notifi
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/11c9e03ef1cecd180c899e529083a7309679d712/copyright/index.md) __— _July 30, 2020._
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/11c9e03ef1cecd180c899e529083a7309679d712/copyright/index.md) _\_— \_July 30, 2020._
 {% endhint %}
 

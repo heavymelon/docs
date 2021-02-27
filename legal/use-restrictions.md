@@ -6,7 +6,7 @@ description: It is not okay to use HeavyMelon products for these restricted purp
 
 Hundreds of thousands of teams use HeavyMelon products\*. We are proud to give them a better way to work. We also recognize that technology is an amplifier: it can enable the helpful and the harmful. That’s why we’ve established this policy. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle-abusive-usage.md).
 
-### Restricted purposes
+## Restricted purposes
 
 * **Child exploitation, sexualization, or abuse**: We don’t tolerate any activities that create, disseminate, or otherwise cause child abuse. Keep away and stop. Just stop.
 * **Doxing**: If you are using HeavyMelon products to share other peoples’ private personal information for the purposes of harassment, we don’t want anything to do with you.
@@ -19,7 +19,7 @@ Hundreds of thousands of teams use HeavyMelon products\*. We are proud to give t
 
 We’ve outlined these restrictions to be clear about what we won’t stand for. That said, this list is by no means exhaustive. We will make changes over time.
 
-### How to report abuse
+## How to report abuse
 
 See someone using a HeavyMelon product for one of the restricted purposes? Let us know by emailing [legal@heavymelon.com](mailto:legal@heavymelon.com) and [we will investigate](how-we-handle-abusive-usage.md). If you are not 100% sure, report it anyway.
 
@@ -32,6 +32,6 @@ Someone on our team will respond within one business day to let you know we’ve
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/abuse/index.md) __— _June 24, 2020._
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/abuse/index.md) _\_— \_June 24, 2020._
 {% endhint %}
 

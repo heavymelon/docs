@@ -8,11 +8,9 @@
 
 ## Queues
 
----
-
-* [Name](name.md)
-* [Native email address](native-email-address.md)
-* [Use Reply-To header when available](use-reply-to-header-when-available.md)
+* [Name](queues/name.md)
+* [Native email address](queues/native-email-address.md)
+* [Use Reply-To header when available](queues/use-reply-to-header-when-available.md)
 
 ## Account
 

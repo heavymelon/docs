@@ -12,5 +12,3 @@ Here is a list of keyboard shortcuts for various actions:
 | `ctrl`/`cmd` + `enter` | Submit a private/public message |
 | `v` | Toggle discussion visibility \(close/reopen\) |
 
-
-

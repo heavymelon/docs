@@ -8,21 +8,21 @@ We build our products\* to give teams a better way to work. We are proud of that
 
 Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](use-restrictions.md). When that happens, we investigate using the following guiding principles and process.
 
-### Guiding Principles
+## Guiding Principles
 
-#### Human oversight
+### Human oversight
 
 Who’s “we”, you ask? It’s us: folks from the HeavyMelon team. We have an internal committee who review all potential abuse cases. This committee includes our executives, Petros and Ilias, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
 
-#### Balanced responsibilities
+### Balanced responsibilities
 
 We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process.
 
-#### Focus on evidence
+### Focus on evidence
 
 We base our decisions on the evidence available to us: what we see and hear account users say and do. We document what we observe and ask whether that observable evidence points to a restricted use.
 
-### Process
+## Process
 
 Every case goes through the same general process:
 
@@ -30,7 +30,7 @@ Every case goes through the same general process:
 2. Investigation
 3. Decision, sometimes with right to an appeal
 
-#### How do we discover potential abuse?
+### How do we discover potential abuse?
 
 From our experience, we learn about potential abuse because:
 
@@ -40,7 +40,7 @@ From our experience, we learn about potential abuse because:
 
 This list is not exhaustive; there are always edge cases. We will update the list if we find regular new avenues.
 
-#### How do we investigate?
+### How do we investigate?
 
 We focus on the evidence:
 
@@ -54,13 +54,13 @@ We strive to balance privacy and safety for all those involved:
 * As we review the evidence, we look for indications of existing negative impact. We also assess the severity of any potential negative impact, regardless of intent. When relevant, we look for and follow available guidelines from expert institutions.
 * If we cannot come to a fair assessment from the information available, we may decide to access a customer account without notice. We do not make this decision lightly. Customer privacy is a big deal to us and we only pursue this course of action if the evidence we have already is very concerning, but not definitive.
 
-#### What happens if someone really broke the rules?
+### What happens if someone really broke the rules?
 
 We will terminate an account without advance notice if there is evidence it is being used for a restricted purpose that has, is, or will cause severe harm. If applicable, we will also report the incident to the appropriate authorities.
 
 For other cases, we’ll take a case-by-case approach to clear things up.
 
-#### Can you appeal a decision?
+### Can you appeal a decision?
 
 If we terminate an account without notice, the decision is final.
 
@@ -71,6 +71,6 @@ For other cases, we will consider good faith appeals sent to [legal@heavymelon.c
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/abuse/how-we-handle/index.md) __— April _13, 2020._
+_This page specifically adapted from_ [_policy_](https://github.com/basecamp/policies/blob/a88ad6072382ec404652568efc29495cb84202e5/abuse/how-we-handle/index.md) _\_— April \_13, 2020._
 {% endhint %}
 
