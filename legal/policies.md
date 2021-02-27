@@ -4,7 +4,7 @@ description: HeavyMelon's policies
 
 # Policies
 
-* [Terms of Service](terms-of-service.md)
+* [Terms of Service](terms-of-service/)
 * [Privacy policy](privacy-policy/)
   * [Company subprocessors](privacy-policy/company-processors.md)
   * [Supportress subprocessors](privacy-policy/supportress-subprocessors.md)

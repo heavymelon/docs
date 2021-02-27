@@ -33,8 +33,8 @@
 ## Legal
 
 * [Policies](legal/policies.md)
-* [Terms of service](legal/terms-of-service.md)
-* [Limits](legal/limits.md)
+* [Terms of service](legal/terms-of-service/README.md)
+  * [Limits](legal/terms-of-service/limits.md)
 * [Privacy policy](legal/privacy-policy/README.md)
   * [Company processors](legal/privacy-policy/company-processors.md)
   * [Supportress subprocessors](legal/privacy-policy/supportress-subprocessors.md)
