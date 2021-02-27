@@ -7,6 +7,10 @@ description: >-
 
 # Privacy policy
 
+{% hint style="info" %}
+Last updated: Saturday, 27 February 2021
+{% endhint %}
+
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
 This policy applies to all products built and maintained by HeavyMelon P.C. including Supportress.
