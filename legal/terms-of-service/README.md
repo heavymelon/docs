@@ -54,6 +54,15 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 1. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Supportress](../privacy-policy/supportress-subprocessors.md).
 2. We process any data you share with us only for the purpose you signed up for and as described in these Terms of Service, [Privacy policy](../privacy-policy/), and [other policies](../policies.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements and not use HeavyMelon Services in a way that violates the regulations.
 
+### Copyright and content ownership
+
+1. All content posted on the Services must comply with EU and Greek copyright law. We provide details on [how to file a copyright infringement claim](../copyright-infringement-claims.md).
+2. We claim no intellectual property rights over the material you provide to the Services. All materials uploaded remain yours.
+3. We do not pre-screen content, but reserve the right \(but not the obligation\) in our sole discretion to refuse or remove any content that is available via the Service.
+4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company's logo or any Service logos for promotional purposes. Please [email us](mailto:support@heavymelon.com) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
+5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission by the Company.
+6. You must not modify another website so as to falsely imply that it is associated with the Services or the Company.
+
 {% hint style="info" %}
 HeavyMelon policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
