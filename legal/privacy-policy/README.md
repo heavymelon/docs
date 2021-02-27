@@ -39,8 +39,6 @@ Web analytics data — described further in the Website Interactions section —
 
 When you browse our marketing pages or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information, along with the pages you are visiting, page load timing, and which website referred you for statistical purposes like conversion rates and to test new designs. We sometimes track specific link clicks to help inform some design decisions. These web analytics data are tied to your IP address and user account if applicable and you are signed into our Services. We blind all of these individual identifiers after 30 days.
 
-Historically — including within the last 12 months — we have used third-party web analytics software. We no longer do for our actively sold and developed products and their marketing sites \(Basecamp and HEY\). We are in the process of removing third party web analytics software from our other products and web properties.
-
 ### Anti-bot assessments
 
 We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in Supportress as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your accounts and fill specific forms in Supportress, the CAPTCHA service evaluates various information \(e.g IP address, how long the visitor has been on the app, mouse movements\) to check whether the data is possibly filled out by an automated program instead of a human. We retain these data via our subprocessor forever because they are used for anti-spam mitigation.
