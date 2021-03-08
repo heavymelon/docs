@@ -1,16 +1,29 @@
 # Table of contents
 
 * [What is Supportress?](README.md)
-* [Import discussions](import-discussions.md)
+* [FAQs](faqs/README.md)
+  * [General FAQs](faqs/general-faqs.md)
+  * [Pricing FAQs](faqs/pricing-faqs.md)
+  * [Competition FAQs](faqs/competition-faqs.md)
 * [Forwarding as attachment in GMail](forwarding-as-attachment-in-gmail.md)
 * [Setting your time zone](setting-your-time-zone.md)
 * [Keyboard shortcuts](keyboard-shortcuts.md)
 
+## Organizations
+
+* [Organization](organizations/organization.md)
+
 ## Queues
 
+* [Queue](queues/queue.md)
+* [Import discussions](queues/import-discussions.md)
 * [Name](queues/name.md)
 * [Native email address](queues/native-email-address.md)
 * [Use Reply-To header when available](queues/use-reply-to-header-when-available.md)
+
+## Discussions
+
+* [Discussion](discussions/discussion.md)
 
 ## Account
 
@@ -29,21 +42,4 @@
 
 * [Handbook](company/handbook.md)
 * [About](company/about.md)
-
-## Legal
-
-* [Policies](legal/policies.md)
-* [Terms of service](legal/terms-of-service/README.md)
-  * [Limits](legal/terms-of-service/limits.md)
-* [Privacy policy](legal/privacy-policy/README.md)
-  * [Company processors](legal/privacy-policy/company-processors.md)
-  * [Supportress subprocessors](legal/privacy-policy/supportress-subprocessors.md)
-* [Security overview](legal/security-overview.md)
-* [Use restrictions](legal/use-restrictions.md)
-* [How we handle abusive usage](legal/how-we-handle-abusive-usage.md)
-* [Cancellation policy](legal/cancellation-policy.md)
-* [Refund policy](legal/refund-policy.md)
-* [Taxes](legal/taxes.md)
-* [Copyright infringement claims](legal/copyright-infringement-claims.md)
-* [Until the end of the internet](legal/until-the-end-of-the-internet.md)
 
