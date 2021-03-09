@@ -2,9 +2,13 @@
 
 Supportress is a simple and affordable helpdesk SaaS product. It allows you to offer customer support to your customers through email. You can hit the ground running with customer support in minutes.
 
+### Who is it for?
+
 It is built with other SaaS companies in mind, but we have plans for indie hackers and small teams that are just starting out.
 
 It is opinionated and its goal is to allow you to support your customers without switching too much context.
+
+### One tool, less context switching
 
 Use one tool for the whole lifecycle:
 
