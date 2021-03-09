@@ -1,16 +1,21 @@
 # What is Supportress?
 
-Supportress is a simple and affordable helpdesk SaaS product. It allows you to offer customer support to your customers through email. You can hit the ground and running with customer support in minutes.
+Supportress is a simple and affordable helpdesk SaaS product. It allows you to offer customer support to your customers through email. You can hit the ground running with customer support in minutes.
 
-It is built with other SaaS companies in mind.
+It is built with other SaaS companies in mind, but we have plans for indie hackers and small teams that are just starting out.
 
-It is opinionated and its goal is to allow you to support your customers without switching too much context. Use one tool for the whole lifecycle:
+It is opinionated and its goal is to allow you to support your customers without switching too much context.
 
-* Receive a customer support request \(we call those discussions\)
-* Investigate/collaborate with your fellow support or your product and engineering teams
-* Capture customer feedback and bugs
-* Fix problems or improve your product
-* Get back to your customers to let them know their topic has been handled
+Use one tool for the whole lifecycle:
+
+![Lifecycle](.gitbook/assets/supportress-docs-what-is-supportress-lifecycle.png)
+
+* Your customer starts a new discussion
+* You start checking facts and taking actions
+* If there's customer feedback involved you can capture it and share it with other teams
+* If there's an issue, you can capture a bug and share it with the programmers
+* You can bring it to the attention of other customer facing teams, like your sales folks
+* After checking, doing, capturing, and collaborating, you can respond and support you customer
 
 ### Product areas and features
 
