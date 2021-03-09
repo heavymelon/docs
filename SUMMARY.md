@@ -16,6 +16,7 @@
 ## Queues
 
 * [Queue](queues/queue.md)
+* [Watching queues](queues/watching-queues.md)
 * [Import discussions](queues/import-discussions.md)
 * [Name](queues/name.md)
 * [Native email address](queues/native-email-address.md)
@@ -24,6 +25,7 @@
 ## Discussions
 
 * [Discussion](discussions/discussion.md)
+* [Watching a discussion](discussions/watching-a-discussion.md)
 
 ## Account
 
